@@ -34,3 +34,9 @@
             Ter uma organização do seu projeto é essencial para o seu desenvolvimento, e através dos conceitos e ferramentas apresentados acima
             seus erros serão mitigados, seu projeto terá maior fluidez de escalonamento e melhores condições de trabalho.
     
+-------------------------------------------------------Controle de Versionamento-----------------------------------------------------------------------------------
+
+    -O que é? 
+
+        Obter os registros de todo o seu código é essencial, você terá a possibilidade de ver cada etapa do seu projeto, cada funcionalidade desenvolvida
+        e as informações sobre aquela mudança, mantendo o seu projeto mais organizado.
