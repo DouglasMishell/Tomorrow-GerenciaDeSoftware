@@ -24,4 +24,9 @@
             git rm --cached <nome do arquivo>
             git rm --cached .       remove todos os arquivos adicionados
             git rm --cached *txt    remove todos os arquivos com aquela extensão
-            
+        
+        Conectando Repositórios
+            git remote add origin <url>
+            Enviar para o repositório remoto(origin).
+                git push -u origin master
+
