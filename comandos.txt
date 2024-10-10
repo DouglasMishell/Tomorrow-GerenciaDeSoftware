@@ -44,3 +44,13 @@
                 git checkout <id do commit>
             Se move para o commit com aquela tag
                 git checkout tags/<nome da tag>
+        Fusão das Branches
+            Será criado um commit de merge na branch master juntando-a com as mudanças da branch bugfix.
+            git merge bugfix
+            Fast Foward
+                Se a branch mergeada for descendente da branch atual, ele não cria um commit de merge, 
+                apenas atualiza a atual para o commit da branch mergeada.
+                git merge --no-ff <branch>
+            Rebase também junta mudanças entre branches,reescreve o histórico de forma linear.
+                git rebase <branch>
+                
