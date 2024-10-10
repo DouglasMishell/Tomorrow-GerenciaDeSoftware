@@ -6,3 +6,10 @@ demos sobre a importância do controle de mudança, e como ele impacta na fluide
 ção de erros, como a supervisão do andamento do projeto influencia para um melhor desenvol-
 vimento do mesmo.
 
+1.SCM: É supervisionar as alterações do Projeto
+2.Software: é um conjunto de instruções
+3.Para quê SCM: Supervisão e controle
+4.História: Finalidade militar para minimizar erros
+5.Mudança de foco (IEEE, EIA, ISO) para padronização
+6.Baseline: versão aprovada do projeto
+7.Controle de Mudança: Verifica e define as alterações
