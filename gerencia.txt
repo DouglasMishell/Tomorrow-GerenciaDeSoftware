@@ -44,23 +44,3 @@
             A tecnologia mais comumente utilizada é o Git, trabalhando lado a lado com o GitHub,plataforma responsável pelo histórico do projeto
         e como repositório(local onde se guarda o código) remoto. A plataforma pode funcionar como uma rede social, onde você terá acesso aos repositórios públicos, podendo trocar informações
         com os respectivos desenvolvedores.
-
-
-    - Comandos do Git 
-        Informações sobre quem está realizando as modificações.
-            git config --global user.name "Fulano de Tal" 
-
-            git config --global user.email "fulanoDeTal@email.com"
-        Iniciar o repositório local
-            git init
-        Estado atual do repositório 
-            git status
-        Adicionando arquivos
-            
-            O git add coloca o arquivo em um estágio pré commit.
-            git add "nome do arquivo"
-            git add .       adiciona todos os modificados
-            git add *.txt   adiciona todos os arquivos com essa extensão
-        Enviando para o repositório
-            
-            git commit -m 
