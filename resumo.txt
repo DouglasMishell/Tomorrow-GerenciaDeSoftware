@@ -13,3 +13,11 @@ vimento do mesmo.
 5.Mudança de foco (IEEE, EIA, ISO) para padronização
 6.Baseline: versão aprovada do projeto
 7.Controle de Mudança: Verifica e define as alterações
+8.Issue: Funcionalidades do código
+9.Issue Tracking: gerencia as issues
+9.Milestone: conjunto de issue associadas por um objetivo
+10.Controle de Versão: Registra as etapas do código
+11.Git: Ferramenta mais utilizada para o Versionamento
+12.GitHub: plataforma utilizada para armazenar o projeto remotamente e fazer registros
+13.Repositório Local: armazena na sua máquina
+14.
