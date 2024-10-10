@@ -1,0 +1,8 @@
+-------------------------------------------------------Resumo Aula 1----------------------------------------------------------------------
+       
+    Aula mais direcionada para os conceitos teóricos, aprendemos sobre o que é um software, 
+seus artefatos(tudo aquilo que pode ser alterado, atualizado, excluído e registrado),apren-
+demos sobre a importância do controle de mudança, e como ele impacta na fluidez e minimiza-
+ção de erros, como a supervisão do andamento do projeto influencia para um melhor desenvol-
+vimento do mesmo.
+
