@@ -34,4 +34,13 @@
                 git branch nome-da-branch
             Criar a Branch e entrar nela
                 git checkout -b nome-da-branch
-        
+
+        Navegando entre versões
+            Se move para o último commit dessa branch.
+                git checkout branch
+            Se move para a branch, criando-a caso não exista.
+                git checkout -b branch
+            Se move para o commit passado
+                git checkout <id do commit>
+            Se move para o commit com aquela tag
+                git checkout tags/<nome da tag>
