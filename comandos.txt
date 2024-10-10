@@ -19,4 +19,9 @@
         Enviando para o repositório
             É essencial ser claro e assertivo na descrição do commit.
             git commit -m "Descrição Do Commit"
-        
+        Removendo arquivos adicionados
+            Não deleta o arquivo, apenas o retira do estágio pré commit
+            git rm --cached <nome do arquivo>
+            git rm --cached .       remove todos os arquivos adicionados
+            git rm --cached *txt    remove todos os arquivos com aquela extensão
+            
