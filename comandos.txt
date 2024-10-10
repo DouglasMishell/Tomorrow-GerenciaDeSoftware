@@ -29,4 +29,9 @@
             git remote add origin <url>
             Enviar para o repositório remoto(origin).
                 git push -u origin master
-
+        Criando Branches 
+            Criar a Branch
+                git branch nome-da-branch
+            Criar a Branch e entrar nela
+                git checkout -b nome-da-branch
+        
