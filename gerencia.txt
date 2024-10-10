@@ -1,0 +1,12 @@
+----------------------------------------------------------Aula 1----------------------------------------------------------------------------------------------
+
+-O que é Gerência e Configuração de Software (SCM)
+-Controle de Mudança
+-Conceito de Controle de Versão
+
+
+    -Gerência e Configuração de Software 
+
+    O Git-SCM, ou simplesmente Git, é um sistema de controle de versão distribuído desenvolvido por Linus Torvalds, o criador do Linux. 
+    Ele foi projetado para lidar com projetos de qualquer tamanho, desde pequenos projetos pessoais até grandes projetos. 
+    Git-SCM permite que várias pessoas trabalhem  simultaneamente no mesmo projeto, mantendo um histórico completo de todas as alterações feitas.
