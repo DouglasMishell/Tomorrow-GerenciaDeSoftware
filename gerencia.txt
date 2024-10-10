@@ -10,3 +10,22 @@
     O Git-SCM, ou simplesmente Git, é um sistema de controle de versão distribuído desenvolvido por Linus Torvalds, o criador do Linux. 
     Ele foi projetado para lidar com projetos de qualquer tamanho, desde pequenos projetos pessoais até grandes projetos. 
     Git-SCM permite que várias pessoas trabalhem  simultaneamente no mesmo projeto, mantendo um histórico completo de todas as alterações feitas.
+
+----------------------------------------------------------Controle de MUdança-----------------------------------------------------------------------------------
+    *Issue Tracking
+        
+        SIstema para averiguar as tarefas e funcionalidades que cada um está responsável; possui nome e descrição.
+
+        *Milestone
+
+        É um agrupamento de issues, associados pelo seu objetivo, como por exemplo: Milestone de cadastro de usuário.
+
+        *Workflows
+        
+        É a maneira de como sua equipe irá realizar o fluxo de trabalho. Podendo ser dividido em duas formas.
+
+        *Centralizado
+            Os devs não criam remificações na branch principal e fazem push para o repositório central.
+
+        *Feature Branches
+            OS devs criam ramificações para cada tarefa.Após a conclusão realizam o merge.
