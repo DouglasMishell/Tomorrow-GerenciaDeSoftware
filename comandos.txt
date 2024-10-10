@@ -3,10 +3,13 @@
             git config --global user.name "Fulano de Tal" 
 
             git config --global user.email "fulanoDeTal@email.com"
+        
         Iniciar o repositório local
             git init
+        
         Estado atual do repositório 
             git status
+        
         Adicionando arquivos
             
             O git add coloca o arquivo em um estágio pré commit.
@@ -14,5 +17,6 @@
             git add .       adiciona todos os modificados
             git add *.txt   adiciona todos os arquivos com essa extensão
         Enviando para o repositório
-            
-            git commit -m 
+            É essencial ser claro e assertivo na descrição do commit.
+            git commit -m "Descrição Do Commit"
+        
