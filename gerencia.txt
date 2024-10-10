@@ -20,12 +20,17 @@
 
         É um agrupamento de issues, associados pelo seu objetivo, como por exemplo: Milestone de cadastro de usuário.
 
-        *Workflows
+    *Workflows
         
         É a maneira de como sua equipe irá realizar o fluxo de trabalho. Podendo ser dividido em duas formas.
 
-        *Centralizado
+    *Centralizado
             Os devs não criam remificações na branch principal e fazem push para o repositório central.
 
-        *Feature Branches
+    *Feature Branches
             OS devs criam ramificações para cada tarefa.Após a conclusão realizam o merge.
+    
+    *Vantagens do Controle De Mudança 
+            Ter uma organização do seu projeto é essencial para o seu desenvolvimento, e através dos conceitos e ferramentas apresentados acima
+            seus erros serão mitigados, seu projeto terá maior fluidez de escalonamento e melhores condições de trabalho.
+    
