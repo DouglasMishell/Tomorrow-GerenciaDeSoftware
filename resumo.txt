@@ -25,4 +25,19 @@ vimento do mesmo.
 -------------------------------------------------------Resumo Aula 2----------------------------------------------------------------------
 
     Aula direcionada para o aprendizado dos comandos do git, ou seja, aprendemos a como versio-
-nar o nosso projeto e acompanhando seus registros na plataforma github.
+nar o nosso projeto e acompanhando seus registros na plataforma github. Os comandos mais impor-
+tantes são:
+
+1.git config --global user.name  : registro de quem está modificando o projeto
+2.git config --global user.email : registro de quem está modificando o projeto
+3.git init: inicia o repositório local
+4.git status: verifica o estado atual do código
+5.git add: adiciona o arquivo em um pré commit
+6.git commit -m: adiciona o arquivo no repositorio
+7.git push: atualiza o repositorio remoto
+8.git pull: recebe as atualizações do repositorio remoto
+9.git reset HEAD~: Desfaz o último commit e retorna às mudanças
+10.git branch nome-da-branch: cria uma nova branch
+11.git push --set-upstream origin nome-da-branch: envia a branch para o repositorio remoto
+12.git rebase <branch>: junta duas branchs
+13. git add origin "https": conecta-se com o repositorio remoto
