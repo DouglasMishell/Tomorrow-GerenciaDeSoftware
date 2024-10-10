@@ -21,3 +21,8 @@ vimento do mesmo.
 12.GitHub: plataforma utilizada para armazenar o projeto remotamente e fazer registros
 13.Repositório Local: armazena na sua máquina
 14.
+
+-------------------------------------------------------Resumo Aula 2----------------------------------------------------------------------
+
+    Aula direcionada para o aprendizado dos comandos do git, ou seja, aprendemos a como versio-
+nar o nosso projeto e acompanhando seus registros na plataforma github.
