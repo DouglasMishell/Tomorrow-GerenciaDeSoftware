@@ -38,5 +38,12 @@
 
     -O que é? 
 
-        Obter os registros de todo o seu código é essencial, você terá a possibilidade de ver cada etapa do seu projeto, cada funcionalidade desenvolvida
+            Obter os registros de todo o seu código é essencial, você terá a possibilidade de ver cada etapa do seu projeto, cada funcionalidade desenvolvida
         e as informações sobre aquela mudança, mantendo o seu projeto mais organizado.
+
+            A tecnologia mais comumente utilizada é o Git, trabalhando lado a lado com o GitHub,plataforma responsável pelo histórico do projeto
+        e como repositório(local onde se guarda o código) remoto. A plataforma pode funcionar como uma rede social, onde você terá acesso aos repositórios públicos, podendo trocar informações
+        com os respectivos desenvolvedores.
+
+
+    
