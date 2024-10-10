@@ -53,4 +53,6 @@
                 git merge --no-ff <branch>
             Rebase também junta mudanças entre branches,reescreve o histórico de forma linear.
                 git rebase <branch>
-                
+        Cancelando o merge em caso de conflito
+            git merge --abort
+        
